@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "nombre": "Tomas Leon Patlayan2222",
+      "precio": 2222,
+      "id": 11
+    },
+    {
+      "nombre": "Nueva tarea",
+      "precio": 5000,
+      "id": 12
+    }
+  ]
+}
